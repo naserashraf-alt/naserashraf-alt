@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Naser Ashraf 👋
 
-<!--
-**naserashraf-alt/naserashraf-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Engineer | Data Enthusiast | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Benha University with a strong passion for Data Engineering, Cloud Technologies, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable data pipelines, designing data warehouses, and transforming raw data into meaningful insights.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student at Benha University
+- 📊 Aspiring Data Engineer
+- ☁️ Learning Cloud Data Engineering
+- 📈 Interested in Data Warehousing & ELT Pipelines
+- 🤖 Exploring Machine Learning & Deep Learning
+- 🌱 Currently improving my SQL, dbt, Snowflake, and Python skills
+- 💼 Looking for Data Engineering Internship / Junior Data Engineer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- Python
+- SQL
+- C++
+
+### Data Engineering
+- dbt
+- Snowflake
+- AWS S3
+- ETL / ELT
+- Data Warehousing
+- Data Modeling
+
+### Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+
+### Machine Learning
+- Scikit-learn
+- TensorFlow
+- Neural Networks
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 End-to-End Data Engineering Project
+Built a complete ELT pipeline using AWS S3, Snowflake, and dbt following the Medallion Architecture.
+
+### 🔹 Energy Data Warehouse Pipeline
+Designed an ELT pipeline and built Power BI dashboards for household energy consumption analysis.
+
+### 🔹 Python Data Processing
+Automated data cleaning, preprocessing, and reporting using Python.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: naserashraf248@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/naser-ashraf-742106358
+
+Thanks for visiting my profile! ⭐
