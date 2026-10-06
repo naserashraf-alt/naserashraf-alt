@@ -62,7 +62,9 @@
 | :--- | :--- | :--- |
 | ⚡ [**aws-snowflake-dbt-pipeline**](https://github.com/naserashraf-alt/aws-snowflake-dbt-pipeline) | End-to-end cloud ELT pipeline with AWS S3, Snowflake, and dbt using Medallion Architecture. | `AWS S3`, `Snowflake`, `dbt`, `Python` |
 | 🧠 [**job-market-ai-engine**](https://github.com/naserashraf-alt/job-market-ai-engine) | AI engine and data scraping pipelines for job market analytics and skill extraction (Graduation Project). | `Python`, `Web Scraping`, `NLP` |
-| 🌍 [**air-quality-prediction-ml**](https://github.com/naserashraf-alt/air-quality-prediction-ml) | Machine Learning models and EDA for Air Quality Index (AQI) prediction. | `Jupyter`, `Scikit-Learn`, `Pandas` |
+| 👁️ [**image-classification-cnn-transfer-learning**](https://github.com/naserashraf-alt/image-classification-cnn-transfer-learning) | Computer vision benchmark with custom CNNs, MobileNetV2, and VGG16 on CIFAR-10. | `TensorFlow`, `Keras`, `CNN`, `Transfer Learning` |
+| 🌍 [**air-quality-prediction-ml**](https://github.com/naserashraf-alt/air-quality-prediction-ml) | Machine Learning models and EDA for Air Quality Index (AQI) prediction and classification. | `XGBoost`, `CatBoost`, `Scikit-Learn` |
+| 🤝 [**charity-donation-management-system**](https://github.com/naserashraf-alt/charity-donation-management-system) | Full-stack web application with admin portal, MySQL database, and donation handling. | `PHP`, `MySQL`, `XAMPP`, `Full-Stack` |
 | 🌐 [**Portfolio Website**](https://github.com/naserashraf-alt/portfolio) | Interactive personal portfolio deployed with responsive design and theme toggling. | `HTML5`, `CSS3`, `JavaScript` |
 
 ---
